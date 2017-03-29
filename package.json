@@ -1,0 +1,26 @@
+{
+  "name": "dbclick",
+  "version": "0.1.0",
+  "description": "Double Click to ...",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-ext run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derjoker/dbclick.git"
+  },
+  "keywords": [
+    "dbclick"
+  ],
+  "author": "Feng Ya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derjoker/dbclick/issues"
+  },
+  "homepage": "https://github.com/derjoker/dbclick#readme",
+  "devDependencies": {
+    "web-ext": "^1.8.1"
+  }
+}
