@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "dbclick",
   "version": "0.1.0",
-  "description": "Double Click to ...",
+  "description": "Double Click to Search.",
   "content_scripts": [
     {
       "matches": [

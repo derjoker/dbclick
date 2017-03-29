@@ -1,7 +1,7 @@
 {
   "name": "dbclick",
   "version": "0.1.0",
-  "description": "Double Click to ...",
+  "description": "Double Click to Search.",
   "main": "index.js",
   "scripts": {
     "start": "web-ext run",
